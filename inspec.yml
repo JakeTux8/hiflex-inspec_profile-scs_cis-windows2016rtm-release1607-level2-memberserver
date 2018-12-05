@@ -1,0 +1,10 @@
+name: hiflex-inspec_profile-scs_cis-windows2016rtm-release1607-level2-memberserver
+title: SCS Custom - CIS Microsoft Windows Server 2016 RTM (Release 1607) Benchmark Level 2 - Member Server
+maintainer: RouseTech Inc.
+copyright: RouseTech Inc.
+copyright_email: contact@jrouse.tech
+license: Apache-2.0
+summary: SCS Custom - CIS Microsoft Windows Server 2016 RTM (Release 1607) Benchmark Level 2 - Member Server translated from SCAP
+version: 0.1.0
+supports:
+  - os-family: windows
